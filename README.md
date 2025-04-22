@@ -287,6 +287,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Pixvify AI](https://pixvify.com/) - Free realistic AI photo generator platform
 - [Pawtrait](https://www.pawtrait.art/) - AI Pet Portraits
 - [iColoring](https://icoloring.ai) - Free AI Coloring Pages Generator
+- [Colorify AI](https://colorifyai.art/) - 100% Free AI Coloring Pages Generator, Create high-quality coloring sheets for free with Colorify AI coloring page generator.
 - [Suit me Up](https://suitmeup.pictures/) - Generate pictures of you wearing a suit with AI.
 - [AI Photo Forge](https://aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 
